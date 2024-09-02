@@ -59,7 +59,7 @@ a { text-decoration: none; }
     margin-top: 40px;
 }
 
-@media screen and (min-width: 400px) {
+@media (min-width: 400px) {
 .bt_group {
     margin-top: 10px;
 }
