@@ -59,29 +59,6 @@ a { text-decoration: none; }
     margin-top: 40px;
 }
 
-@media (min-width: 400px) {
-.bt_group {
-    margin-top: 10px;
-}
-    #logo_top {
-        width: 50%;
-        max-width: 350px;
-        margin-top: 0;
-    }
-    .bp_font {
-        font-size: 40pt;
-    -webkit-text-stroke: 1px black;
-    }
-    .bt_download {
-        width: 200px;
-        margin: 0;
-    }
-    .bt {
-        font-size: 20pt;
-        padding: 8px;
-    }
-}
-
 /* Icons */
 .icon {font-family: awesome;}
 .i_instagram::before {content: "\f16d";}
